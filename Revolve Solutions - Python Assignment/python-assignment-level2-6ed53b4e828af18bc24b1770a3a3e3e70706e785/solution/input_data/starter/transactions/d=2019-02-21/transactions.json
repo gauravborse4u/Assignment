@@ -1,0 +1,26 @@
+{"customer_id": "C2", "basket": [{"product_id": "P05", "price": 1796}], "date_of_purchase": "2019-02-21 16:14:00"}
+{"customer_id": "C4", "basket": [{"product_id": "P07", "price": 1721}, {"product_id": "P03", "price": 875}], "date_of_purchase": "2019-02-21 15:46:00"}
+{"customer_id": "C5", "basket": [{"product_id": "P47", "price": 1006}, {"product_id": "P50", "price": 986}, {"product_id": "P45", "price": 1476}], "date_of_purchase": "2019-02-21 12:52:00"}
+{"customer_id": "C6", "basket": [{"product_id": "P54", "price": 1741}], "date_of_purchase": "2019-02-21 04:07:00"}
+{"customer_id": "C25", "basket": [{"product_id": "P25", "price": 145}, {"product_id": "P32", "price": 807}, {"product_id": "P24", "price": 1841}], "date_of_purchase": "2019-02-21 07:59:00"}
+{"customer_id": "C26", "basket": [{"product_id": "P08", "price": 765}, {"product_id": "P05", "price": 642}, {"product_id": "P05", "price": 719}], "date_of_purchase": "2019-02-21 16:53:00"}
+{"customer_id": "C29", "basket": [{"product_id": "P37", "price": 655}], "date_of_purchase": "2019-02-21 06:45:00"}
+{"customer_id": "C31", "basket": [{"product_id": "P31", "price": 1365}, {"product_id": "P22", "price": 1791}], "date_of_purchase": "2019-02-21 15:36:00"}
+{"customer_id": "C46", "basket": [{"product_id": "P43", "price": 823}], "date_of_purchase": "2019-02-21 10:56:00"}
+{"customer_id": "C50", "basket": [{"product_id": "P20", "price": 1072}, {"product_id": "P14", "price": 245}, {"product_id": "P15", "price": 1527}], "date_of_purchase": "2019-02-21 05:17:00"}
+{"customer_id": "C53", "basket": [{"product_id": "P41", "price": 568}], "date_of_purchase": "2019-02-21 06:20:00"}
+{"customer_id": "C55", "basket": [{"product_id": "P47", "price": 77}, {"product_id": "P45", "price": 1215}], "date_of_purchase": "2019-02-21 15:21:00"}
+{"customer_id": "C62", "basket": [{"product_id": "P16", "price": 773}], "date_of_purchase": "2019-02-21 08:04:00"}
+{"customer_id": "C65", "basket": [{"product_id": "P62", "price": 1939}], "date_of_purchase": "2019-02-21 05:18:00"}
+{"customer_id": "C68", "basket": [{"product_id": "P63", "price": 1756}, {"product_id": "P63", "price": 1759}, {"product_id": "P63", "price": 620}], "date_of_purchase": "2019-02-21 12:09:00"}
+{"customer_id": "C70", "basket": [{"product_id": "P48", "price": 1274}, {"product_id": "P52", "price": 464}, {"product_id": "P42", "price": 643}], "date_of_purchase": "2019-02-21 04:38:00"}
+{"customer_id": "C76", "basket": [{"product_id": "P54", "price": 1177}, {"product_id": "P43", "price": 248}], "date_of_purchase": "2019-02-21 07:43:00"}
+{"customer_id": "C85", "basket": [{"product_id": "P25", "price": 327}, {"product_id": "P34", "price": 468}, {"product_id": "P30", "price": 374}], "date_of_purchase": "2019-02-21 16:51:00"}
+{"customer_id": "C99", "basket": [{"product_id": "P11", "price": 111}], "date_of_purchase": "2019-02-21 18:58:00"}
+{"customer_id": "C104", "basket": [{"product_id": "P25", "price": 866}], "date_of_purchase": "2019-02-21 04:04:00"}
+{"customer_id": "C107", "basket": [{"product_id": "P64", "price": 166}, {"product_id": "P63", "price": 1123}, {"product_id": "P64", "price": 1170}], "date_of_purchase": "2019-02-21 04:05:00"}
+{"customer_id": "C113", "basket": [{"product_id": "P59", "price": 817}, {"product_id": "P44", "price": 1268}, {"product_id": "P52", "price": 1388}], "date_of_purchase": "2019-02-21 15:41:00"}
+{"customer_id": "C117", "basket": [{"product_id": "P28", "price": 1716}, {"product_id": "P33", "price": 1615}, {"product_id": "P30", "price": 1575}], "date_of_purchase": "2019-02-21 09:06:00"}
+{"customer_id": "C121", "basket": [{"product_id": "P27", "price": 66}, {"product_id": "P32", "price": 1071}, {"product_id": "P25", "price": 1206}], "date_of_purchase": "2019-02-21 19:54:00"}
+{"customer_id": "C125", "basket": [{"product_id": "P33", "price": 1164}], "date_of_purchase": "2019-02-21 05:14:00"}
+{"customer_id": "C134", "basket": [{"product_id": "P39", "price": 1913}, {"product_id": "P35", "price": 302}, {"product_id": "P38", "price": 1641}], "date_of_purchase": "2019-02-21 08:40:00"}
