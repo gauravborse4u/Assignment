@@ -1,0 +1,26 @@
+{"customer_id": "C3", "basket": [{"product_id": "P25", "price": 1407}, {"product_id": "P30", "price": 1776}], "date_of_purchase": "2018-12-13 16:47:00"}
+{"customer_id": "C6", "basket": [{"product_id": "P40", "price": 1098}, {"product_id": "P38", "price": 154}, {"product_id": "P37", "price": 1768}], "date_of_purchase": "2018-12-13 20:31:00"}
+{"customer_id": "C13", "basket": [{"product_id": "P05", "price": 1664}, {"product_id": "P01", "price": 1267}], "date_of_purchase": "2018-12-13 21:46:00"}
+{"customer_id": "C18", "basket": [{"product_id": "P37", "price": 1543}], "date_of_purchase": "2018-12-13 10:05:00"}
+{"customer_id": "C28", "basket": [{"product_id": "P36", "price": 1381}, {"product_id": "P40", "price": 1029}, {"product_id": "P35", "price": 1661}], "date_of_purchase": "2018-12-13 22:50:00"}
+{"customer_id": "C34", "basket": [{"product_id": "P05", "price": 912}, {"product_id": "P03", "price": 781}], "date_of_purchase": "2018-12-13 07:46:00"}
+{"customer_id": "C35", "basket": [{"product_id": "P11", "price": 1109}, {"product_id": "P05", "price": 1171}, {"product_id": "P07", "price": 141}], "date_of_purchase": "2018-12-13 21:35:00"}
+{"customer_id": "C41", "basket": [{"product_id": "P03", "price": 214}, {"product_id": "P07", "price": 803}, {"product_id": "P01", "price": 1679}], "date_of_purchase": "2018-12-13 23:47:00"}
+{"customer_id": "C43", "basket": [{"product_id": "P49", "price": 973}, {"product_id": "P57", "price": 868}, {"product_id": "P60", "price": 200}], "date_of_purchase": "2018-12-13 23:14:00"}
+{"customer_id": "C61", "basket": [{"product_id": "P15", "price": 951}, {"product_id": "P13", "price": 1289}, {"product_id": "P21", "price": 1642}], "date_of_purchase": "2018-12-13 10:16:00"}
+{"customer_id": "C66", "basket": [{"product_id": "P13", "price": 1407}, {"product_id": "P14", "price": 272}, {"product_id": "P16", "price": 941}], "date_of_purchase": "2018-12-13 11:51:00"}
+{"customer_id": "C69", "basket": [{"product_id": "P21", "price": 1232}, {"product_id": "P16", "price": 529}], "date_of_purchase": "2018-12-13 07:00:00"}
+{"customer_id": "C73", "basket": [{"product_id": "P60", "price": 457}], "date_of_purchase": "2018-12-13 16:39:00"}
+{"customer_id": "C76", "basket": [{"product_id": "P01", "price": 832}, {"product_id": "P10", "price": 1674}], "date_of_purchase": "2018-12-13 06:38:00"}
+{"customer_id": "C81", "basket": [{"product_id": "P43", "price": 592}], "date_of_purchase": "2018-12-13 07:59:00"}
+{"customer_id": "C85", "basket": [{"product_id": "P35", "price": 302}], "date_of_purchase": "2018-12-13 19:37:00"}
+{"customer_id": "C93", "basket": [{"product_id": "P26", "price": 500}], "date_of_purchase": "2018-12-13 09:08:00"}
+{"customer_id": "C94", "basket": [{"product_id": "P35", "price": 411}, {"product_id": "P35", "price": 1876}], "date_of_purchase": "2018-12-13 15:00:00"}
+{"customer_id": "C96", "basket": [{"product_id": "P08", "price": 1146}, {"product_id": "P04", "price": 827}], "date_of_purchase": "2018-12-13 14:01:00"}
+{"customer_id": "C101", "basket": [{"product_id": "P16", "price": 1562}, {"product_id": "P18", "price": 1017}], "date_of_purchase": "2018-12-13 21:43:00"}
+{"customer_id": "C105", "basket": [{"product_id": "P32", "price": 182}], "date_of_purchase": "2018-12-13 16:30:00"}
+{"customer_id": "C107", "basket": [{"product_id": "P35", "price": 1002}], "date_of_purchase": "2018-12-13 08:21:00"}
+{"customer_id": "C108", "basket": [{"product_id": "P29", "price": 83}, {"product_id": "P22", "price": 1604}, {"product_id": "P33", "price": 521}], "date_of_purchase": "2018-12-13 12:53:00"}
+{"customer_id": "C113", "basket": [{"product_id": "P38", "price": 767}, {"product_id": "P37", "price": 1296}, {"product_id": "P39", "price": 1802}], "date_of_purchase": "2018-12-13 15:39:00"}
+{"customer_id": "C115", "basket": [{"product_id": "P52", "price": 1290}], "date_of_purchase": "2018-12-13 16:10:00"}
+{"customer_id": "C134", "basket": [{"product_id": "P60", "price": 1356}, {"product_id": "P47", "price": 1764}, {"product_id": "P54", "price": 434}], "date_of_purchase": "2018-12-13 14:51:00"}
